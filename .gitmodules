@@ -1,0 +1,6 @@
+[submodule "dynossat-edu-hwlib"]
+	path = dynossat-edu-hwlib
+	url = https://github.com/BHDynamics/dynossat-edu-hwlib
+[submodule "lib"]
+	path = lib
+	url = https://github.com/BHDynamics/dynossat-edu-hwlib

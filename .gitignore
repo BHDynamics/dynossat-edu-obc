@@ -1,0 +1,4 @@
+*.kicad_pcb-bak
+*.sch-bak
+DynOSSAT-EDU-OBC-cache.lib
+fp-info-cache
