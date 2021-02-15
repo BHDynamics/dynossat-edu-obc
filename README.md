@@ -1,4 +1,7 @@
 # DynOSSAT-EDU-OBC (On-Board Computer)
+
+**Important note: we have updated the Arduino Boards Manager link.** Please update your Arduino IDE settings with our new link: https://bhdynamics.github.io/board_index/package_bhdynamics_index.json since the previous one (https://bhdynamics.github.io/board_index/package_dynossat_index.json) **NO LONGER WORKS**.
+
 DynOSSAT-EDU is the first open source PocketQube educational kit compatible with CircuitPython and Arduino.
 
 This plaform is equipped with all the necessary modules for the operation of a nanosatellite (PocketQube)
@@ -24,4 +27,4 @@ Hardware in this repository is licenced under **CERN OHL v1.2**.
 
 ## Documentation
 
-Available soon!
+Available in this repo's [Wiki](https://github.com/BHDynamics/dynossat-edu-obc/wiki).
